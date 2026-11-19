@@ -1,0 +1,10 @@
+# build scratch
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# headless-test artefacts
+probe.html
+dom.html
+chrome.log
